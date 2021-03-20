@@ -4,5 +4,13 @@
  - Mi legajo es 11424
  - Tengo 22 años
  - Vivo en Zárate
+# Hobbies
+ - Tocar la guitarra 🎸 y escuchar musica (jazz, funk, pop, r&b) 🎵
+ - Mirar peliculas (mas que nada dramas) y series.. 🎬 
+ - Jugar al CSGO a veces 🔫
+ - Jugar con mis perros 🐕
+ - Mirar todo tipo de deportes (que por cierto soy de River ⚪🔴⚪)
+
+
 
 
